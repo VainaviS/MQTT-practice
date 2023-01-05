@@ -8,7 +8,7 @@ client.on("connect",function()
 
 {
 
-    client.subscribe("Shirish");
+    client.subscribe("Vainavi");
 
     console.log("Client subscribed ");
 
