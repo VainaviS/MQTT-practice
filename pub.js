@@ -18,7 +18,7 @@ client.on("connect",function()
 
         {
 
-            client.publish("Pradeep","temperature value: "+random.toString());
+            client.publish("Vainavi","temperature value: "+random.toString());
 
         }
 
